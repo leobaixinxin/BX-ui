@@ -1,0 +1,22 @@
+{
+  "name": "bx-ui",
+  "version": "1.0.0",
+  "description": "构建自己的UI库，在以后开发中去应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leobaixinxin/BX-ui.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leobaixinxin/BX-ui/issues"
+  },
+  "homepage": "https://github.com/leobaixinxin/BX-ui#readme"
+}
